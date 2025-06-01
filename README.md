@@ -7,3 +7,5 @@ A secure Android WebView app that blocks all general-purpose web browsing and on
 - Only whitelisted domains allowed
 - Dark theme, simple UI
 - Password-protected admin mode (coming soon)
+
+fingers Crossed!
